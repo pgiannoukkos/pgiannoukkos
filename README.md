@@ -35,7 +35,7 @@
 
 ---
 
-[![Panayiotis' github stats](https://github-readme-stats.vercel.app/api?username=pgiannoukkos)](https://github.com/anuraghazra/github-readme-stats)
+[![Panayiotis' github stats](https://github-readme-stats.vercel.app/api?username=pgiannoukkos&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/pyiannoukkos
 [instagram]: https://instagram.com/p.yiannoukkos
