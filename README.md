@@ -30,8 +30,9 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+---
+
+[![Panayiotis' github stats](https://github-readme-stats.vercel.app/api?username=pgiannoukkos)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/pyiannoukkos
 [instagram]: https://instagram.com/p.yiannoukkos
