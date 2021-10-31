@@ -1,7 +1,7 @@
 ### Hi there, I'm Panayiotis! 👋
 
 ## I'm an Electrical & Computer Engineering Student!
-- 🔭 I’m currently working as an Electrical Engineer Intern
+- 🔭 I’m currently working as an Electrical Engineer
 - 🌱 I'm currently learning everything 🤣
 - ⚡ Fun fact: I love gaming
 
