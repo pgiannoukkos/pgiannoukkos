@@ -49,7 +49,3 @@ Built with: **C++**, **CUDA**, and a bit of **OpenGL** for visualization
 ### ✨ Fun Fact
 
 > I build the backend worlds you don’t see—but you feel them every time you queue, match, and level up.
-
----
-
-![Panayiotis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgiannoukkos&show_icons=true&theme=tokyonight)
