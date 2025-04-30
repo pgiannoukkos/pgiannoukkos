@@ -30,6 +30,7 @@ I'm a Software Engineer at **Wargaming**, working on backend systems that power 
 
 #### 🖼️ [CUDA Ray Tracer](https://github.com/Trippasch/CudaRayTracer)
 A GPU-accelerated ray tracing renderer written in C++ and CUDA. This was my thesis project, focused on building a custom ray tracer from scratch with support for:
+- Soft shadows, reflections, and Phong shading
 - Real-time camera manipulation and object interaction
 - Parallel rendering via CUDA for faster performance
 
@@ -48,3 +49,7 @@ Built with: **C++**, **CUDA**, and a bit of **OpenGL** for visualization
 ### ✨ Fun Fact
 
 > I build the backend worlds you don’t see—but you feel them every time you queue, match, and level up.
+
+---
+
+![Panayiotis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pgiannoukkos&show_icons=true&theme=tokyonight)
